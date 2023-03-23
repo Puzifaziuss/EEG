@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_Hochladen_und_Einlesen", "Excel_Hochladen_und_Einlesen\Excel_Hochladen_und_Einlesen.csproj", "{C668A3D7-4649-40DE-A599-7B21C459F0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseWrapper", "..\..\SWP\AbsVerbReg\DataBaseWrapper\DataBaseWrapper.csproj", "{E6018D5D-1656-4E23-A719-5022CF0A7B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C668A3D7-4649-40DE-A599-7B21C459F0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C668A3D7-4649-40DE-A599-7B21C459F0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C668A3D7-4649-40DE-A599-7B21C459F0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C668A3D7-4649-40DE-A599-7B21C459F0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6018D5D-1656-4E23-A719-5022CF0A7B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6018D5D-1656-4E23-A719-5022CF0A7B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6018D5D-1656-4E23-A719-5022CF0A7B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6018D5D-1656-4E23-A719-5022CF0A7B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D03C7E0-F040-4347-B4A1-C6C7514E9F3E}
+	EndGlobalSection
+EndGlobal
