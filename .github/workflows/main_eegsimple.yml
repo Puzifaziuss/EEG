@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'EEGsimple'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_365840A0E9FD479DA574AD745A0B703D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0361CFF305CC4312AA1298F8995CE431 }}
           package: .
